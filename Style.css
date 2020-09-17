@@ -1,0 +1,30 @@
+/*
+ Theme Name:   Astra Child Theme
+ Theme URI:    https://portfolio.codrean.dk/astra-child-theme/
+ Description:  Astra Child Theme based on the partent theme Astra
+ Author:       Ioana Codrean
+ Author URI:   https://portfolio.codrean.dk/
+ Template:     astra
+ Version:      1.1.2
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  astrachildtheme
+*/
+
+html {
+    font-family: Be Vietnam;
+}
+
+header {
+    background-color: #eca1ac !important;
+}
+
+body {
+    background-color: #eca1ac !important;
+}
+
+.custom-logo {
+    width: 96px;
+    height: 52px;
+}
